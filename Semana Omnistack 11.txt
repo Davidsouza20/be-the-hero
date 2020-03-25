@@ -1,0 +1,41 @@
+Be hero 
+Seja um herói  
+
+App criado para ajudar as ONGs divuldar necessidades e obter doações por meio da nossa aplicação. 
+
+Stack utilizada 
+Nodejs no Backend
+Reactjs no Frontend 
+ReactNative no Mobile
+
+
+Modelo de Dados 
+
+Entities
+
+ONGs 
+
+Caso (incident)
+
+Features
+
+NGO
+
+Login 
+Register
+Layout screen
+Add incident
+Delete incident
+List incidents (related to this NGO)
+
+General 
+
+List all incidents
+Contact NGO
+
+
+
+
+
+
+
